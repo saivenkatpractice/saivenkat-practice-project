@@ -10,3 +10,5 @@ cd sai
 touch firstfile secondfile
 echo "Executed succesfully"
 
+# Listing all the hidden folders and files
+ls -ltra
